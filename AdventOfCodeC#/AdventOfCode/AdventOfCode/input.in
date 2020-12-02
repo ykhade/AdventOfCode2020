@@ -1,0 +1,10 @@
+﻿using System;
+namespace AdventOfCode
+{
+ public class input
+ {
+     public input()
+     {
+     }
+ }
+}
